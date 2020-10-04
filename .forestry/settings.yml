@@ -5,6 +5,12 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: content/check-lang
+  label: check-lang
+  create: all
+  match: "**/*"
+  new_doc_ext: ".en.mdx"
+- type: directory
   path: content/doi-moi-sang-tao
   label: doi-moi-sang-tao
   create: all
