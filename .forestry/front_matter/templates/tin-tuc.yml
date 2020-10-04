@@ -21,6 +21,7 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/check-lang/english-news.en.mdx
 - content/doi-moi-sang-tao/sang-t-o-c-a-chung-toi.mdx
 - content/tin-tuc/asdasd.md
 - content/tin-tuc/so-dac-biet-hom-nay-la-ngay-dac-biet.md
