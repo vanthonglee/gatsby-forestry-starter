@@ -1,4 +1,22 @@
 ---
 label: tin-tuc
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: The title of an article
+  hidden: false
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: excerpt
+  description: The brief description of an article
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
