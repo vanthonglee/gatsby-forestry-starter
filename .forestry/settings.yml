@@ -5,6 +5,12 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: content/doi-moi-sang-tao
+  label: doi-moi-sang-tao
+  create: all
+  match: "**/*"
+  new_doc_ext: ".mdx"
+- type: directory
   path: content/tin-tuc
   label: tin-tuc
   create: all
