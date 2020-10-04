@@ -21,5 +21,6 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/tin-tuc/asdasd.md
 - content/tin-tuc/so-dac-biet-hom-nay-la-ngay-dac-biet.md
 - content/tin-tuc/video-may-bay-phun-thu-c-tr-sau-gi-i-phap-cho-m-t-n-n-nong-nghi-p-hi-n-d-i.md
