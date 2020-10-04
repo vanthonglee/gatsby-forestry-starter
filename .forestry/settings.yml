@@ -2,19 +2,19 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url:
+webhook_url: 
 sections:
-  - type: directory
-    path: content/tin-tuc
-    label: tin-tuc
-    create: all
-    match: "**/*"
-    new_doc_ext: mdx
-    templates:
-      - tin-tuc
+- type: directory
+  path: content/tin-tuc
+  label: tin-tuc
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - tin-tuc
 upload_dir: static/uploads
 public_path: static/uploads
-front_matter_path: ""
+front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
