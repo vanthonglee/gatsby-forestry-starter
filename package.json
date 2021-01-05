@@ -26,7 +26,7 @@
     "css-loader": "^4.3.0",
     "extract-loader": "^5.1.0",
     "gatsby-plugin-load-script": "^1.1.0",
-    "gatsby-plugin-mdx": "^1.2.43",
+    "gatsby-plugin-mdx": "^1.8.0",
     "gatsby-plugin-page-creator": "^2.3.30",
     "gatsby-plugin-react-helmet": "^3.3.11",
     "gatsby-plugin-sass": "^2.3.13",
